@@ -1,2 +1,2 @@
 <?php
-echo "测试php!";
+include "../rBAAdmHlURWAMgnJAAZyF1mTRXA044_1.png";
