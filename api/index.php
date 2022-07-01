@@ -1,9 +1,4 @@
 <?php
-echo 666;
-include "../i.html";
-include "../rBAAdmHlURWAMgnJAAZyF1mTRXA044.png";
-?>
-<?php
 if(isset($_GET['url'])==false){die("请将参数填写完整，在当前路径后加上?url=反代的链接");}
 $token=(string)rand(100,99999);
 $ch = curl_init();
